@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network-Sniffer                               | <a href="https://github.com/Tomaz612/Network-Sniffer">Network-Sniffer</a>|
-| Home Lab running AD | Add users w/ PowerShell | <a href="https://google.com">Home Lab running AD</a>|
+| Home Lab running AD & Add users w/ PowerShell | <a href="https://google.com">Home Lab running AD</a>|
 | Create Home SOC + SIEM                        | <a href="https://google.com">Create Home SOC + SIEM</a>|
 
 
