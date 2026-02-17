@@ -22,26 +22,23 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+## Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-FF6600?&style=for-the-badge&logo=TheHiveProject&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IDS-8B0000?&style=for-the-badge&logo=firewall&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IPAM-2E8B57?&style=for-the-badge&logo=ip-address&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HPSM-4B0082?&style=for-the-badge&logo=serviceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike-FF0000?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ArcSight-000080?&style=for-the-badge&logo=arcsight&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
@@ -51,7 +48,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=50&fontSize=20" />
   <img src="https://img.shields.io/badge/-Wireshark%20(Udemy)-800080?&style=for-the-badge&logo=Wireshark&logoColor=white&logoWidth=30&fontSize=16" />
 </div>
-
 
 
 ## Projects
