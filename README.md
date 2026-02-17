@@ -45,6 +45,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- Network-Sniffer
-- Home Lab running AD
-- Create Home SOC + SIEM
+- <a href="https://github.com/Tomaz612/Network-Sniffer">Network-Sniffer</a>
+- <a href="https://github.com/Tomaz612/Network-Sniffer">Home Lab running AD</a>
+- <a href="https://github.com/Tomaz612/Network-Sniffer">Create Home SOC + SIEM</a>
