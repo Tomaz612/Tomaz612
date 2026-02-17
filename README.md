@@ -12,17 +12,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network-Sniffer                               | <a href="https://github.com/Tomaz612/Network-Sniffer">Network-Sniffer</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Home Lab running AD | Add users w/ PowerShell | <a href="https://google.com">Home Lab running AD</a>|
+| Create Home SOC + SIEM                        | <a href="https://google.com">Create Home SOC + SIEM</a>|
 
 
 ## Tools
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TheHive-FF6600?&style=for-the-badge&logo=TheHiveProject&logoColor=white" />
     <img src="https://img.shields.io/badge/-IDS-8B0000?&style=for-the-badge&logo=firewall&logoColor=white" />
     <img src="https://img.shields.io/badge/-IPAM-2E8B57?&style=for-the-badge&logo=ip-address&logoColor=white" />
@@ -48,4 +46,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Network-Sniffer
-- SOC Automation Project
+- Home Lab running AD
+- Create Home SOC + SIEM
