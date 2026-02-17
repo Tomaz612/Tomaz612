@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network-Sniffer                               | <a href="https://github.com/Tomaz612/Network-Sniffer">Network-Sniffer</a>|
-| Home Lab running AD & Add users w/ PowerShell | <a href="https://google.com">Home Lab running AD</a>|
+| Home Lab running AD & Add users w/ PowerShell | <a href="https://github.com/Tomaz612/Home-Lab-running-AD">Home Lab running AD</a>|
 | Create Home SOC + SIEM                        | <a href="https://google.com">Create Home SOC + SIEM</a>|
 
 
@@ -27,6 +27,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-HPSM-4B0082?&style=for-the-badge&logo=serviceNow&logoColor=white" />
     <img src="https://img.shields.io/badge/-CrowdStrike-FF0000?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-ArcSight-000080?&style=for-the-badge&logo=arcsight&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-012456?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 
@@ -46,5 +48,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Tomaz612/Network-Sniffer">Network-Sniffer</a>
-- <a href="https://github.com/Tomaz612/Network-Sniffer">Home Lab running AD</a>
+- <a href="https://github.com/Tomaz612/Home-Lab-running-AD">Home Lab running AD</a>
 - <a href="https://github.com/Tomaz612/Network-Sniffer">Create Home SOC + SIEM</a>
