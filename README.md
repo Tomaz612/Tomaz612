@@ -43,6 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=50&fontSize=20" />
   <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=50&fontSize=20" />
   <img src="https://img.shields.io/badge/-Wireshark%20(Udemy)-800080?&style=for-the-badge&logo=Wireshark&logoColor=white&logoWidth=30&fontSize=16" />
+  <img src="https://img.shields.io/badge/-Cambridge%20B2-003A70?&style=for-the-badge&logo=cambridge&logoColor=white&fontSize=18" />
 </div>
 
 
