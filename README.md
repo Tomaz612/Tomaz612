@@ -1,11 +1,11 @@
 # Hello, I'm Tomás
 <a href="https://www.linkedin.com/in/tom%C3%A1s-oliveira-a7707335a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Computer Engineering graduate with a strong interest in cybersecurity and a continuous drive to expand my knowledge in the field. 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I actively develop hands-on projects and study security concepts to deepen my understanding of real-world threats, detection techniques, and security operations.
 
 ## Skills
 
@@ -41,7 +41,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=50&fontSize=20" />
-  <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=50&fontSize=20" />
   <img src="https://img.shields.io/badge/-Wireshark%20(Udemy)-800080?&style=for-the-badge&logo=Wireshark&logoColor=white&logoWidth=30&fontSize=16" />
   <img src="https://img.shields.io/badge/-B2%20First%20(Cambridge)-003A70?&style=for-the-badge&logo=cambridge&logoColor=white&fontSize=18" />
 </div>
