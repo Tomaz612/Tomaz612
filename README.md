@@ -3,8 +3,6 @@
 
 I am a Computer Engineering graduate with a strong interest in cybersecurity and a continuous drive to expand my knowledge in the field. 
 
----
-
 ## Objective
 
 I actively develop hands-on projects and study security concepts to deepen my understanding of real-world threats, detection techniques, and security operations.
