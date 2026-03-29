@@ -2,11 +2,15 @@
 <a href="https://www.linkedin.com/in/tom%C3%A1s-oliveira-a7707335a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Computer Engineering graduate with a strong interest in cybersecurity and a continuous drive to expand my knowledge in the field. 
+
 ---
+
 ## Objective
 
 I actively develop hands-on projects and study security concepts to deepen my understanding of real-world threats, detection techniques, and security operations.
+
 ---
+
 ## Projects
 
 | Project Name                                  | Associated Link            |
@@ -16,6 +20,7 @@ I actively develop hands-on projects and study security concepts to deepen my un
 
 
 ---
+
 ## 🛠️ Tools & Technologies
 
 ### SIEM
