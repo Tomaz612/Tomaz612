@@ -9,11 +9,10 @@ I actively develop hands-on projects and study security concepts to deepen my un
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Project Name                                  | Associated Link            |
 |-----------------------------------------------|----------------------------|
-| Network-Sniffer                               | <a href="https://github.com/Tomaz612/Network-Sniffer">Network-Sniffer</a>|
 | Home Lab running AD & Add users w/ PowerShell | <a href="https://github.com/Tomaz612/Home-Lab-running-AD">Home Lab running AD</a>|
-| Create Home SOC + SIEM                        | <a href="https://github.com/Tomaz612/Home-Lab-SIEM-Microsoft-Sentinel">Create Home SOC + SIEM</a>|
+| SIEM Honeypot Sentinel Lab                    | <a href="https://github.com/Tomaz612/Home-Lab-SIEM-Microsoft-Sentinel">SIEM Honeypot Sentinel Lab</a>|
 
 
 ## Tools
