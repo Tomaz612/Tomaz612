@@ -1,7 +1,7 @@
 # Hello, I'm Tomás
 <a href="https://www.linkedin.com/in/tom%C3%A1s-oliveira-a7707335a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Computer Engineering graduate with a strong interest in cybersecurity and a continuous drive to expand my knowledge in the field. 
+I am a Computer Engineering graduate with a strong interest in cybersecurity and a continuous drive to expand my knowledge in the field. Currently, I am part of the Cyber Defense team at SIBS, working with IDS technologies (Cisco Firepower), where I perform event analysis and incident response. I am also focused on log parsing and normalization for Elastic using ECS fields.
 
 ## Objective
 
