@@ -49,7 +49,6 @@ I actively develop hands-on projects and study security concepts to deepen my un
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white&logoWidth=50&fontSize=20" />
-  <img src="https://img.shields.io/badge/-Wireshark%20(Udemy)-800080?&style=for-the-badge&logo=Wireshark&logoColor=white&logoWidth=30&fontSize=16" />
   <img src="https://img.shields.io/badge/-B2%20First%20(Cambridge)-003A70?&style=for-the-badge&logo=cambridge&logoColor=white&fontSize=18" />
 </div>
 
