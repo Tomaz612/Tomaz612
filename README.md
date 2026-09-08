@@ -13,9 +13,9 @@ I actively develop hands-on projects and study security concepts to deepen my un
 
 | Project Name                                  | Associated Link            |
 |-----------------------------------------------|----------------------------|
-| SIEM Honeypot Sentinel Lab                    | <a href="https://github.com/Tomaz612/Home-Lab-SIEM-Microsoft-Sentinel">SIEM Honeypot Sentinel Lab</a>|
-| Malware Analysis Lab                          | <a href="https://github.com/Tomaz612/Malware-Analysis-Lab">Malware Analysis Lab</a>|
-| Home Lab running AD & Add users w/ PowerShell | <a href="https://github.com/Tomaz612/Home-Lab-running-AD">Home Lab running AD</a>|
+| <a href="https://github.com/Tomaz612/Home-Lab-SIEM-Microsoft-Sentinel">SIEM Honeypot Sentinel Lab</a>                    | Deployed a honeypot integrated with Microsoft Sentinel to collect and analyze real-world attack telemetry. |
+| <a href="https://github.com/Tomaz612/Malware-Analysis-Lab">Malware Analysis Lab</a>                          | |
+| <a href="https://github.com/Tomaz612/Home-Lab-running-AD">Home Lab running AD</a> | Active Directory home lab with user provisioning automated via PowerShell. |
 
 ---
 
