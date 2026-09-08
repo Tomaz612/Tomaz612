@@ -34,6 +34,10 @@ I actively develop hands-on projects and study security concepts to deepen my un
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-CrowdStrike-FF0000?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-TheHive-FF6600?&style=for-the-badge&logo=TheHiveProject&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-FF6E00?&style=for-the-badge&logo=suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 
