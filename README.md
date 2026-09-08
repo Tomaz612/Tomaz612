@@ -13,9 +13,9 @@ I actively develop hands-on projects and study security concepts to deepen my un
 
 | Project Name                                  | Associated Link            |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/Tomaz612/Home-Lab-SIEM-Microsoft-Sentinel">SIEM Honeypot Sentinel Lab</a>                    | Deployed a honeypot integrated with Microsoft Sentinel to collect and analyze real-world attack telemetry. |
-| <a href="https://github.com/Tomaz612/Malware-Analysis-Lab">Malware Analysis Lab</a>                          | |
-| <a href="https://github.com/Tomaz612/Home-Lab-running-AD">Home Lab running AD</a> | Active Directory home lab with user provisioning automated via PowerShell. |
+| <a href="https://github.com/Tomaz612/Home-Lab-SIEM-Microsoft-Sentinel">SIEM Honeypot Sentinel Lab</a> | Deployed a honeypot integrated with Microsoft Sentinel to collect and analyze real-world attack telemetry. |
+| <a href="https://github.com/Tomaz612/Malware-Analysis-Lab">Malware Analysis Lab</a> | A hands-on malware analysis lab using FLARE-VM, covering static and dynamic analysis techniques in an isolated Windows environment. |
+| <a href="https://github.com/Tomaz612/Home-Lab-running-AD">Home Lab running AD</a> | Active Directory home lab built with virtual machines to simulate a corporate network, including AD DS, DNS, DHCP, NAT/RAS and PowerShell automation for large-scale user provisioning.  |
 
 ---
 
