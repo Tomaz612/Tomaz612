@@ -15,7 +15,7 @@ I actively develop hands-on projects and study security concepts to deepen my un
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/Tomaz612/Home-Lab-SIEM-Microsoft-Sentinel">SIEM Honeypot Sentinel Lab</a> | Deployed a honeypot integrated with Microsoft Sentinel to collect and analyze real-world attack telemetry. |
 | <a href="https://github.com/Tomaz612/Malware-Analysis-Lab">Malware Analysis Lab</a> | A hands-on malware analysis lab using FLARE-VM, covering static and dynamic analysis techniques in an isolated Windows environment. |
-| <a href="https://github.com/Tomaz612/PfSense-Firewall-IDS-IPS-Lab">Firewall Lab — DoS Simulation & IDS/IPS Detection</a> | Virtualized lab simulating a DoS attack and port scan against a pfSense-protected host, combining manual firewall rules with a Suricata IDS/IPS — including custom detection signatures — for traffic analysis (Wireshark), mitigation, and automated blocking. |
+| <a href="https://github.com/Tomaz612/PfSense-Firewall-IDS-IPS-Lab">PfSense Firewall & IDS/IPS Lab</a> | Virtualized lab simulating a DoS attack and port scan against a pfSense-protected host, using Wireshark for traffic analysis and a Suricata IDS/IPS with custom rules for automated detection and blocking. |
 | <a href="https://github.com/Tomaz612/Home-Lab-running-AD">Home Lab running AD</a> | Active Directory home lab built with virtual machines to simulate a corporate network, including AD DS, DNS, DHCP, NAT/RAS and PowerShell automation for large-scale user provisioning.  |
 
 ---
